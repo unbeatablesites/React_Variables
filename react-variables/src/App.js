@@ -1,5 +1,6 @@
 import React from "react";
+import VarPractice from "./components/VarPractice";
 
-const App = () => <varPractice />;
+const App = () => <VarPractice />;
 
 export default App;
